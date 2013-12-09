@@ -1,0 +1,1 @@
+Food delivery basic APP which uses SendGrid's gem to send the customer an e-mail when the order was placed.
